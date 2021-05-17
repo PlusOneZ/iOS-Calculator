@@ -1,0 +1,6 @@
+[submodule "Calculator_SwiftUI"]
+	path = Calculator_SwiftUI
+	url = https://github.com/PlusOneZ/SwiftUI-Calculator
+[submodule "Calculator_UIKit"]
+	path = Calculator_UIKit
+	url = https://github.com/PlusOneZ/UIKit-Calculator
